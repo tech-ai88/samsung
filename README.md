@@ -1,3 +1,8 @@
-[데이터분석 구글 슬라이드](https://docs.google.com/presentation/d/1ERoB6cFTrCKNX352Xz-Ha8Du1QWm2siGoroWDJd4sUM/edit?usp=sharing) <br>
-[머신러닝 구글 슬라이드](https://docs.google.com/presentation/d/1i8Hf9c6zHvD0XiAP0886TfdNqtmixAVokxWJqu_8RaE/edit?usp=sharing) <br>
-[OpenCV 구슬 슬라이드](https://docs.google.com/presentation/d/1qmMdGVZdCtMFZhtdPkz38UABtf-p8HFGqVxAWG-5h7I/edit?usp=sharing) <br>
+- [수업시간표](https://docs.google.com/spreadsheets/d/1s62AdnCj9_3EtrgACT3z3ynxMXIK9OVGoluG48MZLhc/edit?usp=sharing)<br><br>
+- 구글 슬라이드
+  - [데이터분석 구글 슬라이드](https://docs.google.com/presentation/d/1ERoB6cFTrCKNX352Xz-Ha8Du1QWm2siGoroWDJd4sUM/edit?usp=sharing)
+  - [머신러닝 구글 슬라이드](https://docs.google.com/presentation/d/1i8Hf9c6zHvD0XiAP0886TfdNqtmixAVokxWJqu_8RaE/edit?usp=sharing) 
+  - [OpenCV 구슬 슬라이드](https://docs.google.com/presentation/d/1qmMdGVZdCtMFZhtdPkz38UABtf-p8HFGqVxAWG-5h7I/edit?usp=sharing)<br><br> 
+- 다운로드
+  - 데이터분석 
+    - [PRODUCTION_TREND 다운로드](https://drive.google.com/file/d/1nFZoAe1WD5pQD0YtjK4LF00WoatWXCnH/view?usp=sharing)<br><br>
